@@ -1,0 +1,22 @@
+# Secrets - NEVER commit these!
+.env
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
